@@ -1,5 +1,7 @@
 # giphy_app
 
+<img src="https://github.com/eoinfogarty/giphy_app/blob/master/screenshot.png?raw=true" width=300/>
+
 A test of redux and flutter
 
 ## Getting a api key
